@@ -21,3 +21,6 @@ Plotting Graph for all Models to compare performance
 Preparing model for deployment
 Deployed model using Flask
 
+![2022-07-05 (2)](https://user-images.githubusercontent.com/71717105/177379835-9e578ae7-fb9c-4b70-92da-f6691fbe6d33.png)
+![2021-12-05 (20)](https://user-images.githubusercontent.com/71717105/177380021-c415a7a1-fdb2-4f02-9223-96b934d4934d.png)
+![2021-12-05 (27)](https://user-images.githubusercontent.com/71717105/177380059-2eef0379-55e3-4b6e-a806-e4b5d8f518e5.png)
