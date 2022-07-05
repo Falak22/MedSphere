@@ -4,7 +4,6 @@
 This repo contains a lot of basics such as Data preprocessing, Data Visualization, Prediction using various models and tuning their Hyper parameters. Also, the best model was chosen and was deployed using Flask locally.
 Topics Covered :
 Exploring the dataset
-
 Converting Categorical values to Numerical
 Plotting Heatmap to see dependency of Dependent valeu on Independent features
 Data Visualization (Plots of feature vs feature)
